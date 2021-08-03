@@ -1,5 +1,5 @@
 * {
-    background-color: aqua;
+    background-color: #922001;
     margin:0;
     padding: 0;
     box-sizing: border-box;
@@ -7,7 +7,7 @@
     outline: none;
 }
 body{
-    background-color: aqua;
+    background-color: #004400;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,6 +15,6 @@ body{
 }
 
 .clicks{
-    color:brown;
+    color:#000000;
     font-size: 50px;
 }
