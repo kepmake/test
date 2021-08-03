@@ -7,6 +7,7 @@
     outline: none;
 }
 body{
+    background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,5 +15,6 @@ body{
 }
 
 .clicks{
+    color:brown;
     font-size: 50px;
 }
